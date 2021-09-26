@@ -1,0 +1,85 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  font-stretch: expanded;
+}
+.qwerty {
+  background-color: antiquewhite;
+  width: 630px;
+  float: left;
+  margin: 10px;
+  padding: 25px;
+}
+body {
+  background-image: url("12.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-color: rgba(100, 148, 237, 0.938); */
+  /* position: relative; */
+}
+.s1 {
+  font-size: small;
+}
+.s2 {
+  font-size: medium;
+}
+.s3 {
+  font-size: large;
+}
+.s4 {
+  font-size: x-large;
+}
+.c1 {
+  color: red;
+}
+.c3 {
+  color: green;
+}
+.c4 {
+  color: yellow;
+}
+.c5 {
+  color: blue;
+}
+.bg {
+  background-color: rgba(255, 217, 217, 0.705);
+  width: 500px;
+  margin: 15px;
+  padding: 50px;
+  /* border-width: 2px; */
+  /* border-color: rgba(87, 185, 30, 0.74); */
+  border: solid;
+  float: right;
+  height: 350x;
+  line-height: 25px;
+  text-indent: 20px;
+}
+.btn1 {
+  background-color: lightblue;
+  border: solid;
+  border-width: thin;
+  border-color: rgb(255, 255, 254);
+  text-shadow: darkcyan;
+  width: 100px;
+  height: 35px;
+}
+.btn2 {
+  background-color: lightblue;
+  border: solid;
+  border-width: thin;
+  border-color: rgb(255, 255, 254);
+  text-shadow: darkcyan;
+  width: 100px;
+  height: 35px;
+  margin-left: 250px;
+}
+.hd1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgba(255, 182, 193, 0.747);
+  text-align: center;
+  color: white;
+}
+.hd2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  color: whitesmoke;
+}
